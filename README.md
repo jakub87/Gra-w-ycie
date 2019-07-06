@@ -1,4 +1,4 @@
-# Gra w zycie
+# Gra w życie
 
 Gra w życie jest przykładem aparatu komórkowego. Została ona wymyślona przez Johna Hortona Conwaya, brytyjskiego matematyka, w 1970 roku. Odbywa się ona na kwadratowej siatce komórek, gdzie każda komórka może być albo żywa, albo martwa. Ich zachowaniem kierują następujące reguły:
 
